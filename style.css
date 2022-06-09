@@ -1,0 +1,17 @@
+#timer{
+    float:left;
+}
+#score{
+    float:right;
+}
+#showsketch{
+    float:right;
+}
+#heading{
+    font-size:40px;
+    background-color:lightblue;
+}
+
+p{
+    font-size:20px;
+}
